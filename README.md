@@ -8,3 +8,4 @@ Feature list:
 - [ ] Add notes to events
 - [ ] Security - pin or password
 - [ ] Create a widget
+testing push
